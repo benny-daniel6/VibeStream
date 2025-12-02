@@ -1,0 +1,5 @@
+{
+  "name": "VibeStream",
+  "description": "An AI-powered media curator that translates your mood and abstract vibes into real-time trending songs, TikToks, and viral video recommendations using Google Gemini with Search Grounding.",
+  "requestFramePermissions": []
+}
